@@ -1,3 +1,11 @@
+
+// Components
+import { Header } from "@/components/Header";
+
 export default function Home() {
-  return <>oi</>;
+  return (
+   <>
+    <Header />
+   </>
+  )
 }
