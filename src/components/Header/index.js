@@ -9,6 +9,6 @@ export function Header() {
             Nova Transação
         </NewTransactionButton>
       </HeaderContent>
-    </HeaderContainer>
+    </HeaderContainer> 
   );
 }
